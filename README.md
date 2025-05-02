@@ -1,4 +1,4 @@
-# 👁️ Eye Strain Reminder
+# 👁️ Eye Strain Reminder (Flutter APP)
 
 A minimal Flutter app designed to reduce digital eye strain by reminding users to follow the 20-20-20 rule: every 20 minutes, look at something 20 feet away for 20 seconds. Built with modern design, a single screen, and smart timer logic using AlertDialog.
 
