@@ -47,5 +47,5 @@ Created by **Bektas Sari**
 
 ## 📄 License
 
-MIT License © 2024 Bektas Sari
+MIT License © 2025 - Bektas Sari
 
